@@ -1,6 +1,6 @@
 {
   "name": "vue-ts-cli-zh",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Use my Vue + TypeScript template to make a Vue Project",
   "main": "index.js",
   "scripts": {},

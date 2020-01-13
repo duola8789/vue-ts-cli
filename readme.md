@@ -7,6 +7,6 @@
 推荐使用[npx](https://www.ruanyifeng.com/blog/2019/02/npx.html)以避免污染全局环境：
 
 ```BASH
-npx vue-cli-zh init [project_name]
+npx vue-ts-cli-zh init [project_name]
 ```
 
