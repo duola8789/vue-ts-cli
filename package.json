@@ -1,0 +1,18 @@
+{
+  "name": "vue-ts-cli-zh",
+  "version": "0.0.1",
+  "description": "Use my Vue + TypeScript template to make a Vue Project",
+  "main": "index.js",
+  "scripts": {},
+  "bin": {
+    "build": "./index.js"
+  },
+  "author": "duola8789",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.20.0",
+    "download-git-repo": "^2.0.0",
+    "ora": "^3.4.0"
+  }
+}
