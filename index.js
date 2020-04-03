@@ -37,7 +37,7 @@ if (program.init && typeof program.init === "string") {
       // 更改 package.json 中的 name 和版本号
       changePackage()
     } else {
-      spinner.fail('拉取成功');
+      spinner.fail('拉取失败：');
     }
   });
 } else {
