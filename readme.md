@@ -1,6 +1,6 @@
 # Vue-ts-cli
 
-用于拉取[duola8789/vue-ts-template](https://github.com/duola8789/vue-ts-template)模板的脚手架项目。
+用于拉取[duola8789/vue2-ts-template](https://github.com/duola8789/vue2-ts-template)模板的脚手架项目。
 
 ## 使用方法
 
